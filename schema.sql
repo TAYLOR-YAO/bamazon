@@ -1,0 +1,12 @@
+-- CREATE DATABASE bamazon;
+
+-- USE bamazon;
+-- DROP TABLE products;
+-- CREATE TABLE products (
+-- item_id INT(100) AUTO_INCREMENT,
+-- product_name VARCHAR(100) NOT NULL,
+-- department VARCHAR(100) NOT NULL,
+-- price DECIMAL(5,2) NOT NULL,
+-- stock_quantity INT(10) DEFAULT 0,
+-- PRIMARY KEY(item_id)
+-- );
